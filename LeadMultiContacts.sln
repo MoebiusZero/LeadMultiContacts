@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeadMultiContacts", "LeadMultiContacts.csproj", "{DF991280-33D3-431E-94ED-00A7B7888D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF991280-33D3-431E-94ED-00A7B7888D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF991280-33D3-431E-94ED-00A7B7888D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF991280-33D3-431E-94ED-00A7B7888D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF991280-33D3-431E-94ED-00A7B7888D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB1555AE-E5F8-4DD2-A962-269ABC795A65}
+	EndGlobalSection
+EndGlobal
